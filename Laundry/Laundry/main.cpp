@@ -3,7 +3,6 @@
 #include <stdio.h>
 using namespace std;
 
-
 float totalBiaya (float a, float b){
     float biaya=a*b;
     return biaya;
